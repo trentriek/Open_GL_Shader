@@ -1,0 +1,7 @@
+﻿  Material.cpp
+..\src\Material.cpp(47,31): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+  L07.vcxproj -> C:\Trent\Senior Year\CSCE441\projects\L07\build\Debug\L07.exe

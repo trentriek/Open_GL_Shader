@@ -1,0 +1,9 @@
+C:/Trent/Senior Year/CSCE441/projects/L07/build/CMakeFiles/L07.dir
+C:/Trent/Senior Year/CSCE441/projects/L07/build/CMakeFiles/INSTALL.dir
+C:/Trent/Senior Year/CSCE441/projects/L07/build/CMakeFiles/ALL_BUILD.dir
+C:/Trent/Senior Year/CSCE441/projects/L07/build/CMakeFiles/ZERO_CHECK.dir
+C:/Trent/Senior Year/CSCE441/glfw-3.3.2/debug/CMakeFiles/uninstall.dir
+C:/Trent/Senior Year/CSCE441/glfw-3.3.2/debug/CMakeFiles/INSTALL.dir
+C:/Trent/Senior Year/CSCE441/glfw-3.3.2/debug/CMakeFiles/ALL_BUILD.dir
+C:/Trent/Senior Year/CSCE441/glfw-3.3.2/debug/src/CMakeFiles/glfw.dir
+C:/Trent/Senior Year/CSCE441/glfw-3.3.2/debug/src/CMakeFiles/INSTALL.dir

@@ -1,0 +1,10 @@
+^C:\TRENT\SENIOR YEAR\CSCE441\PROJECTS\L07\BUILD\CMAKEFILES\50862F452864C1494A8C5DFD445AB0AA\GENERATE.STAMP.RULE
+setlocal
+"C:\Trent\Senior Year\CSCE441\cmake-3.16.2-win64-x64\bin\cmake.exe" "-SC:/Trent/Senior Year/CSCE441/projects/L07" "-BC:/Trent/Senior Year/CSCE441/projects/L07/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Trent/Senior Year/CSCE441/projects/L07/build/L07.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
